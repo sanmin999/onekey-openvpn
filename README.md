@@ -12,7 +12,9 @@ OpenWrt，PandoraBox，Padavan-Openvvpn 一键搭建脚本
 
 ---------------------------------------------------------------------------------------------------------------
 wget http://code.taobao.org/svn/OpenwrtVpn/openvpn.sh && sh openvpn.sh
-复制代码
+
+
+
 wget http://code.taobao.org/svn/OpenwrtVpn/padavan.sh && sh padavan.sh
 
 by  a86248425 @ 恩山
